@@ -1,0 +1,17 @@
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\ApplicationIcon.png
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\Background.png
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.dll
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.pdb
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\AppManifest.xaml
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.xap
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\obj\Debug\App.g.i.cs
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\obj\Debug\MainPage.g.i.cs
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.g.resources
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.dll
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.pdb
+C:\Users\Winnie\WP7_ListImageSample\WindowsPhoneApplication1\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,13 @@
+C:\Users\Winnie\Dropbox\Samples\WindowsPhone7\DatabaseSample\WebSite\bin\WebSite.dll
+C:\Users\Winnie\Dropbox\Samples\WindowsPhone7\DatabaseSample\WebSite\bin\WebSite.pdb
+C:\Users\Winnie\Dropbox\Samples\WindowsPhone7\DatabaseSample\WebSite\bin\EntityFramework.dll
+C:\Users\Winnie\Dropbox\Samples\WindowsPhone7\DatabaseSample\WebSite\bin\EntityFramework.xml
+C:\Users\Winnie\Dropbox\Samples\WindowsPhone7\DatabaseSample\WebSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Winnie\Dropbox\Samples\WindowsPhone7\DatabaseSample\WebSite\obj\Debug\WebSite.dll
+C:\Users\Winnie\Dropbox\Samples\WindowsPhone7\DatabaseSample\WebSite\obj\Debug\WebSite.pdb
+C:\Users\Winnie\Documents\Expression\Blend 4\Projects\WindowsPhoneApplication1\WebSite\bin\WebSite.dll
+C:\Users\Winnie\Documents\Expression\Blend 4\Projects\WindowsPhoneApplication1\WebSite\bin\WebSite.pdb
+C:\Users\Winnie\Documents\Expression\Blend 4\Projects\WindowsPhoneApplication1\WebSite\bin\EntityFramework.xml
+C:\Users\Winnie\Documents\Expression\Blend 4\Projects\WindowsPhoneApplication1\WebSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Winnie\Documents\Expression\Blend 4\Projects\WindowsPhoneApplication1\WebSite\obj\Debug\WebSite.dll
+C:\Users\Winnie\Documents\Expression\Blend 4\Projects\WindowsPhoneApplication1\WebSite\obj\Debug\WebSite.pdb
